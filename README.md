@@ -1,6 +1,6 @@
 # Fair Inference for Discrete Latent Variable Models
 
-This folder provides all the source code and data to reproduce the experimental results as reported in our submitted paper. The code is tested on windows and linux operating systems. It should work on any other platform.
+This folder provides all the source code and data to reproduce the experimental results as reported in [Islam, Rashidul, Shimei Pan, and James R. Foulds. "Fair Inference for Discrete Latent Variable Models." arXiv preprint arXiv:2209.07044 (2022)](https://arxiv.org/pdf/2209.07044.pdf). The code is tested on windows and linux operating systems. It should work on any other platform.
 
 ## Prerequisites
 
