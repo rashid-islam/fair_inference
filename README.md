@@ -19,5 +19,5 @@ We provide three sperate folders "NB", "GMM", and "Special_Purpose_COMPAS" which
 
 Note that these scripts will conduct the required hyper-parameters tuning on dev set first, and then save trained models and results on test set into "trained-models" and "results" folders, respectively.   
 
-## Submitted to 36th Conference on Neural Information Processing Systems (NeurIPS 2022). Do not distribute.
+## Under Submission. Do not distribute.
 
